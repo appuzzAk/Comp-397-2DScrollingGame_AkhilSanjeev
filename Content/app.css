@@ -1,0 +1,9 @@
+body {
+    background-color: lightgrey;
+}
+
+#canvas {
+    border: 1px black dotted;
+    background-color: lightblue;
+    border-radius: 1%;
+}
